@@ -1,0 +1,17 @@
+[t35]
+FileName1=t35.htm
+URL1=https://st2-uk.rs-online.com/web/co/order_review/?cid=86
+Total=4
+RequestHeaderFile=t35_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t35_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_35.xml
+FileName2=t35_remote.html
+URL2=https://st2-uk.rs-online.com/web/seam/resource/remoting/resource/remote.js
+FileName3=t35_interface.html
+URL3=https://st2-uk.rs-online.com/web/seam/resource/remoting/interface.js?ServerSideStateChecker
+FileName4=t35_print.gif
+URL4=https://st2-uk.rs-online.com/siteImages/general/print.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

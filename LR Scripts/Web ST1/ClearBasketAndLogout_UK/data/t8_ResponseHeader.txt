@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+Accept-Ranges: none
+Date: Wed, 27 Jan 2016 16:56:52 GMT
+Server: Apache
+Cache-Control: no-cache, no-store, must-revalidate, max-age=0, proxy-revalidate
+X-UA-Compatible: IE=EmulateIE8
+Vary: Accept-Encoding
+Content-Encoding: gzip
+P3P: CP=OUR
+Content-Length: 332
+Content-Type: text/html;charset=UTF-8
+

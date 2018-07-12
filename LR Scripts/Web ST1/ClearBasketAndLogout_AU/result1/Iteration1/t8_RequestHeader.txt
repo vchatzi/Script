@@ -1,0 +1,10 @@
+GET /predictivesearch/catSearch?searchTerm=FUSE&locale=au&advancedPredictiveSearchEnabled=true HTTP/1.1
+Referer: http://st1-au.rs-online.com/web/home.html
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Accept-Language: en-GB,en;q=0.5
+Accept: */*
+Connection: Keep-Alive
+Host: st1-au.rs-online.com
+Cookie: firsttimevisitor=N; cart=15348452; returningUser=Y
+

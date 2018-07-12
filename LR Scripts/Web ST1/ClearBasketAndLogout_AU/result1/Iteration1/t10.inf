@@ -1,0 +1,13 @@
+[t10]
+SnapshotXmlFile=snapshot_9.xml
+ContentType=text/html
+StepName=Url: rechargeable-batteries
+Total=1
+FileName1=t10.html
+RequestHeaderFile=t10_RequestHeader.txt
+ResponseHeaderFile=t10_ResponseHeader.txt
+RawStepEndTime=1515769893427
+RawStepName=rechargeable-batteries
+RequestBodyFile=t10_RequestBody.txt
+RawStepStartTime=1515769890211
+URL1=https://st1-au.rs-online.com/web/c/connectors/terminals-splices/

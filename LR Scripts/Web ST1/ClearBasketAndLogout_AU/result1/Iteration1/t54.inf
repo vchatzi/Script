@@ -1,0 +1,13 @@
+[t54]
+SnapshotXmlFile=snapshot_44.xml
+ContentType=text/html
+StepName=Submit Data: 0281035
+Total=1
+FileName1=t54.html
+RequestHeaderFile=t54_RequestHeader.txt
+ResponseHeaderFile=t54_ResponseHeader.txt
+RawStepEndTime=1515769947789
+RawStepName=0281035
+RequestBodyFile=t54_RequestBody.txt
+RawStepStartTime=1515769947335
+URL1=https://st1-au.rs-online.com/web/p/microswitch-caps/0337885/

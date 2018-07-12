@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: Apache/2.4.23 (Red Hat)
+Pragma: No-cache
+Cache-Control: no-cache, public
+Expires: Thu, 01 Jan 1970 01:00:00 GMT
+Cache-Control: no-cache, no-store, must-revalidate, max-age=0, proxy-revalidate
+Content-Language: en
+X-Cnection: close
+Content-Type: text/html;charset=UTF-8
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 126
+Date: Fri, 12 Jan 2018 15:11:26 GMT
+Connection: keep-alive
+Set-Cookie: JSESSIONID=l3l9Qqr9o4NxfQHbGplK2yn7.605; Path=/web;HttpOnly
+

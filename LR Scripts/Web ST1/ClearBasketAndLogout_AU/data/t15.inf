@@ -1,0 +1,15 @@
+[t15]
+FileName1=t15.htm
+URL1=http://st2-uk.rs-online.com/web/p/socket-screws/0281035/
+Total=3
+RequestHeaderFile=t15_RequestHeader.txt
+RequestBodyFile=t15_RequestBody.txt
+ResponseHeaderFile=t15_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_15.xml
+FileName2=t15_deliveryInfoIcon.gif
+URL2=http://st2-uk.rs-online.com/siteImages/general/deliveryInfoIcon.gif
+FileName3=t15_processing.gif
+URL3=http://st2-uk.rs-online.com/siteImages/general/processing.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,3 @@
+"AJAXREQUEST=_viewRoot&rtqCheckerForm=rtqCheckerForm&rtqCheckerForm%3ArtqCheckQty=2&javax.faces"
+".ViewState=j_id3&rtqCheckerForm%3ArtqCheckButton=rtqCheckerForm%3ArtqCheckButton&AJAX%3AEVENTS"
+"_COUNT=1&"

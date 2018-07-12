@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Proxy-Connection: Close
+Connection: Close
+Accept-Ranges: none
+Date: Wed, 27 Jan 2016 17:00:57 GMT
+Server: Apache
+Vary: Accept-Encoding
+Content-Encoding: gzip
+P3P: CP=OUR
+Transfer-Encoding: chunked
+Content-Type: text/xml
+

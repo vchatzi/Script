@@ -1,0 +1,13 @@
+[t13]
+FileName1=t13.htm
+URL1=http://st2-uk.rs-online.com/web/p/socket-screws/0281035/
+Total=2
+RequestHeaderFile=t13_RequestHeader.txt
+RequestBodyFile=t13_RequestBody.txt
+ResponseHeaderFile=t13_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_13.xml
+FileName2=t13.html
+URL2=http://server.lon.liveperson.net/hc/42888380/?&site=42888380&cmd=mTagInPage&lpCallId=127848311687-953333254589&protV=20&lpjson=1&page=http%3A//st2-uk.rs-online.com/web/p/socket-screws/0281035/&id=212897599&javaSupport=false&visitorStatus=INSITE_STATUS&defInvite=chat-uk-sales&activePlugin=none&cobrowse=true&cobrowse=true
+[ProtocolInfo]
+ProtocolId=QTWeb

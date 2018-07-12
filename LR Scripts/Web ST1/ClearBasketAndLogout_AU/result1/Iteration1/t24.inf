@@ -1,0 +1,13 @@
+[t24]
+SnapshotXmlFile=snapshot_20.xml
+ContentType=text/html
+StepName=Url: Hex Socket Cap Stainless Steel Plain Socket {p_searchParam}ew, M4 x 12mm
+Total=1
+FileName1=t24.html
+RequestHeaderFile=t24_RequestHeader.txt
+ResponseHeaderFile=t24_ResponseHeader.txt
+RawStepEndTime=1515769911174
+RawStepName=Hex Socket Cap Stainless Steel Plain Socket {p_searchParam}ew, M4 x 12mm
+RequestBodyFile=t24_RequestBody.txt
+RawStepStartTime=1515769910529
+URL1=https://st1-au.rs-online.com/web/p/c-rechargeable-batteries/8412401/

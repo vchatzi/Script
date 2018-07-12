@@ -1,0 +1,13 @@
+[t12]
+FileName1=t12.htm
+URL1=http://st2-uk.rs-online.com/web/p/socket-screws/0281035/
+Total=2
+RequestHeaderFile=t12_RequestHeader.txt
+RequestBodyFile=t12_RequestBody.txt
+ResponseHeaderFile=t12_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_12.xml
+FileName2=t12_bgSprite.gif
+URL2=http://st2-uk.rs-online.com/siteImages/general/bgSprite.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

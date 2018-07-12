@@ -1,0 +1,13 @@
+[t73]
+SnapshotXmlFile=snapshot_61.xml
+ContentType=text/html
+StepName=Url: web
+Total=1
+FileName1=t73.html
+RequestHeaderFile=t73_RequestHeader.txt
+ResponseHeaderFile=t73_ResponseHeader.txt
+RawStepEndTime=1515769970847
+RawStepName=web
+RequestBodyFile=t73_RequestBody.txt
+RawStepStartTime=1515769970536
+URL1=https://st1-au.rs-online.com/web/?locale=au&unique=1453930497500-3350773362913288068

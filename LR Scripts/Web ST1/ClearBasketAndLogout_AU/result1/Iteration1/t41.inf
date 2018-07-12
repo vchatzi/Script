@@ -1,0 +1,13 @@
+[t41]
+SnapshotXmlFile=snapshot_35.xml
+ContentType=text/html
+StepName=Url: catSearch
+Total=1
+FileName1=t41.html
+RequestHeaderFile=t41_RequestHeader.txt
+ResponseHeaderFile=t41_ResponseHeader.txt
+RawStepEndTime=1515769932868
+RawStepName=catSearch
+RequestBodyFile=t41_RequestBody.txt
+RawStepStartTime=1515769932734
+URL1=https://st1-au.rs-online.com/predictivesearch/catSearch?searchTerm=Control cabinet&locale=au&advancedPredictiveSearchEnabled=true

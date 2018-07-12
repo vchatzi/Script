@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+Accept-Ranges: none
+Date: Wed, 27 Jan 2016 16:58:08 GMT
+Server: Apache
+Cache-Control: no-cache, no-store, must-revalidate, max-age=0, proxy-revalidate
+X-UA-Compatible: IE=EmulateIE8
+Content-Language: en
+X-Powered-By: JSF/1.2
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Set-Cookie: cart=88021051; Expires=Wed, 22-Feb-2062 09:56:16 GMT; Path=/;HttpOnly
+P3P: CP=OUR
+Content-Length: 35769
+Content-Type: text/html;charset=utf-8
+

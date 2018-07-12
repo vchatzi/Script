@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Proxy-Connection: Close
+Connection: Close
+Accept-Ranges: none
+Date: Wed, 27 Jan 2016 16:55:04 GMT
+Server: Apache
+Cache-Control: no-cache, no-store, must-revalidate, max-age=0, proxy-revalidate
+X-UA-Compatible: IE=EmulateIE8
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Set-Cookie: JSESSIONID=0D7B15048A06BFE94B8132261EDBD24E.652; Path=/;HttpOnly
+Set-Cookie: firsttimevisitor=N; Expires=Mon, 14-Feb-2084 20:09:11 GMT; Path=/;HttpOnly
+P3P: CP=OUR
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+

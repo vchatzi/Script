@@ -1,0 +1,13 @@
+[t38]
+SnapshotXmlFile=snapshot_32.xml
+ContentType=text/html
+StepName=Submit Data: 0281035_3
+Total=1
+FileName1=t38.html
+RequestHeaderFile=t38_RequestHeader.txt
+ResponseHeaderFile=t38_ResponseHeader.txt
+RawStepEndTime=1515769927466
+RawStepName=0281035_3
+RequestBodyFile=t38_RequestBody.txt
+RawStepStartTime=1515769926911
+URL1=https://st1-au.rs-online.com/web/p/pin-diodes/6261756/

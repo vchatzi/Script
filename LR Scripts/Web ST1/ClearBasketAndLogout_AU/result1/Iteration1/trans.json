@@ -1,0 +1,227 @@
+[
+    {
+        "transactionName": "AU-01-HomePage",
+        "rawStartTime": 1515769882010,
+        "rawEndTime": 1515769883862
+    },
+    {
+        "transactionName": "AU-02-ClkLoginLink",
+        "rawStartTime": 1515769884873,
+        "rawEndTime": 1515769885467
+    },
+    {
+        "transactionName": "AU-03-Login",
+        "rawStartTime": 1515769886467,
+        "rawEndTime": 1515769887732
+    },
+    {
+        "transactionName": "AU-04-PredictiveSearch",
+        "rawStartTime": 1515769888747,
+        "rawEndTime": 1515769889197
+    },
+    {
+        "transactionName": "AU-04-HierarchySearch",
+        "rawStartTime": 1515769890210,
+        "rawEndTime": 1515769893443
+    },
+    {
+        "transactionName": "AU-05-BrowseByProductCategory",
+        "rawStartTime": 1515769894458,
+        "rawEndTime": 1515769895537
+    },
+    {
+        "transactionName": "AU-06-ViewProductDetailsPage",
+        "rawStartTime": 1515769896554,
+        "rawEndTime": 1515769898890
+    },
+    {
+        "transactionName": "AU-07-CheckStockLevelLink",
+        "rawStartTime": 1515769899902,
+        "rawEndTime": 1515769901226
+    },
+    {
+        "transactionName": "AU-08-CheckStockLevel",
+        "rawStartTime": 1515769901227,
+        "rawEndTime": 1515769902560
+    },
+    {
+        "transactionName": "AU-09-ClkAddtoBasket",
+        "rawStartTime": 1515769903572,
+        "rawEndTime": 1515769904216
+    },
+    {
+        "transactionName": "AU-04-PredictiveSearch",
+        "rawStartTime": 1515769906230,
+        "rawEndTime": 1515769906542
+    },
+    {
+        "transactionName": "AU-04-HierarchySearch",
+        "rawStartTime": 1515769907555,
+        "rawEndTime": 1515769908110
+    },
+    {
+        "transactionName": "AU-05-BrowseByProductCategory",
+        "rawStartTime": 1515769909124,
+        "rawEndTime": 1515769909510
+    },
+    {
+        "transactionName": "AU-06-ViewProductDetailsPage",
+        "rawStartTime": 1515769910528,
+        "rawEndTime": 1515769911197
+    },
+    {
+        "transactionName": "AU-07-CheckStockLevelLink",
+        "rawStartTime": 1515769912211,
+        "rawEndTime": 1515769913219
+    },
+    {
+        "transactionName": "AU-08-CheckStockLevel",
+        "rawStartTime": 1515769913220,
+        "rawEndTime": 1515769914270
+    },
+    {
+        "transactionName": "AU-09-ClkAddtoBasket",
+        "rawStartTime": 1515769915282,
+        "rawEndTime": 1515769915907
+    },
+    {
+        "transactionName": "AU-04-PredictiveSearch",
+        "rawStartTime": 1515769917920,
+        "rawEndTime": 1515769918120
+    },
+    {
+        "transactionName": "AU-04-HierarchySearch",
+        "rawStartTime": 1515769919132,
+        "rawEndTime": 1515769920930
+    },
+    {
+        "transactionName": "AU-05-BrowseByProductCategory",
+        "rawStartTime": 1515769922251,
+        "rawEndTime": 1515769922831
+    },
+    {
+        "transactionName": "AU-06-ViewProductDetailsPage",
+        "rawStartTime": 1515769923849,
+        "rawEndTime": 1515769924824
+    },
+    {
+        "transactionName": "AU-07-CheckStockLevelLink",
+        "rawStartTime": 1515769925836,
+        "rawEndTime": 1515769926910
+    },
+    {
+        "transactionName": "AU-08-CheckStockLevel",
+        "rawStartTime": 1515769926911,
+        "rawEndTime": 1515769929108
+    },
+    {
+        "transactionName": "AU-09-ClkAddtoBasket",
+        "rawStartTime": 1515769930121,
+        "rawEndTime": 1515769930722
+    },
+    {
+        "transactionName": "AU-04-PredictiveSearch",
+        "rawStartTime": 1515769932733,
+        "rawEndTime": 1515769932892
+    },
+    {
+        "transactionName": "AU-04-HierarchySearch",
+        "rawStartTime": 1515769933904,
+        "rawEndTime": 1515769934457
+    },
+    {
+        "transactionName": "AU-05-BrowseByProductCategory",
+        "rawStartTime": 1515769935470,
+        "rawEndTime": 1515769935812
+    },
+    {
+        "transactionName": "AU-06-ViewProductDetailsPage",
+        "rawStartTime": 1515769936829,
+        "rawEndTime": 1515769937491
+    },
+    {
+        "transactionName": "AU-09-ClkAddtoBasket",
+        "rawStartTime": 1515769938513,
+        "rawEndTime": 1515769939191
+    },
+    {
+        "transactionName": "AU-04-PredictiveSearch",
+        "rawStartTime": 1515769941204,
+        "rawEndTime": 1515769941351
+    },
+    {
+        "transactionName": "AU-04-HierarchySearch",
+        "rawStartTime": 1515769942365,
+        "rawEndTime": 1515769943172
+    },
+    {
+        "transactionName": "AU-05-BrowseByProductCategory",
+        "rawStartTime": 1515769944186,
+        "rawEndTime": 1515769944464
+    },
+    {
+        "transactionName": "AU-06-ViewProductDetailsPage",
+        "rawStartTime": 1515769945481,
+        "rawEndTime": 1515769946322
+    },
+    {
+        "transactionName": "AU-07-CheckStockLevelLink",
+        "rawStartTime": 1515769947335,
+        "rawEndTime": 1515769948309
+    },
+    {
+        "transactionName": "AU-08-CheckStockLevel",
+        "rawStartTime": 1515769948310,
+        "rawEndTime": 1515769949416
+    },
+    {
+        "transactionName": "AU-09-ClkAddtoBasket",
+        "rawStartTime": 1515769950429,
+        "rawEndTime": 1515769951068
+    },
+    {
+        "transactionName": "AU-04-PredictiveSearch",
+        "rawStartTime": 1515769953082,
+        "rawEndTime": 1515769953240
+    },
+    {
+        "transactionName": "AU-04-HierarchySearch",
+        "rawStartTime": 1515769954252,
+        "rawEndTime": 1515769955265
+    },
+    {
+        "transactionName": "AU-05-BrowseByProductCategory",
+        "rawStartTime": 1515769956278,
+        "rawEndTime": 1515769956653
+    },
+    {
+        "transactionName": "AU-06-ViewProductDetailsPage",
+        "rawStartTime": 1515769957671,
+        "rawEndTime": 1515769958308
+    },
+    {
+        "transactionName": "AU-09-ClkAddtoBasket",
+        "rawStartTime": 1515769959488,
+        "rawEndTime": 1515769960029
+    },
+    {
+        "transactionName": "AU-10-ViewBasket",
+        "rawStartTime": 1515769962043,
+        "rawEndTime": 1515769964907
+    },
+    {
+        "transactionName": "AU-11-CheckoutSecurely",
+        "rawStartTime": 1515769966088,
+        "rawEndTime": 1515769967030
+    },
+    {
+        "transactionName": "AU-15-ClearBasket",
+        "rawStartTime": 1515769968041,
+        "rawEndTime": 1515769969431
+    },
+    {
+        "transactionName": "AU-16-ClkLogout",
+        "rawStartTime": 1515769970431,
+        "rawEndTime": 1515769970867
+    }
+]

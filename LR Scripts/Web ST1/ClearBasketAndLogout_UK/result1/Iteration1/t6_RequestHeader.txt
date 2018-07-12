@@ -1,0 +1,9 @@
+GET /web/home.html HTTP/1.1
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Accept-Language: en-GB,en;q=0.5
+Accept: */*
+Connection: Keep-Alive
+Host: st1-uk.rs-online.com
+Cookie: JSESSIONID=OLT3ftmHDsrO6wAIA14tSQnk.602; ADRUM_BTa="R:41|g:3ababccc-6071-41e6-8e46-ff306fc1a814|n:RSComponents-Dev_0c1d56e8-de19-4781-8e56-268618f53916"; ADRUM_BT1="R:41|i:1688130|e:1|d:1"; ADRUM_BTs="R:46|s:f"
+

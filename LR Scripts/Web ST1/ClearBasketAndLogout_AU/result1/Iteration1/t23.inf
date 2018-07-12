@@ -1,0 +1,13 @@
+[t23]
+SnapshotXmlFile=snapshot_19.xml
+ContentType=text/html
+StepName=Url: 2-Way Radio Rechargeable Batteries
+Total=1
+FileName1=t23.html
+RequestHeaderFile=t23_RequestHeader.txt
+ResponseHeaderFile=t23_ResponseHeader.txt
+RawStepEndTime=1515769909488
+RawStepName=2-Way Radio Rechargeable Batteries
+RequestBodyFile=t23_RequestBody.txt
+RawStepStartTime=1515769909124
+URL1=https://st1-au.rs-online.com/web/c/batteries/rechargeable-batteries/c-rechargeable-batteries/

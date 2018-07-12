@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: Apache/2.4.23 (Red Hat)
+Cache-Control: public
+X-Cnection: close
+Content-Type: text/xml
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 137
+Date: Fri, 12 Jan 2018 15:12:46 GMT
+Connection: keep-alive
+

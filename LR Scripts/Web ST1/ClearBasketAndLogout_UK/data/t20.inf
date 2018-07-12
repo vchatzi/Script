@@ -1,0 +1,17 @@
+[t20]
+FileName1=t20.htm
+URL1=http://st2-uk.rs-online.com/web/ca/basketsummary/
+Total=4
+RequestHeaderFile=t20_RequestHeader.txt
+RequestBodyFile=t20_RequestBody.txt
+ResponseHeaderFile=t20_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_20.xml
+FileName2=t20.html
+URL2=http://server.lon.liveperson.net/hc/42888380/?&site=42888380&cmd=mTagUrl&lpCallId=743257598885-352951722407&protV=20&lpjson=1&SV%21impression-query-name=chat-uk-sales-checkout&SV%21impression-query-room=chat-uk-sales-checkout&id=7871627038&info=button-impression%3Achat-uk-sales-checkout%28%29&waitForVisitor=true&d=1453913998392&page=http%3A//server.lon.liveperson.net/hcp/width/img40.gif
+FileName3=t20.html
+URL3=http://server.lon.liveperson.net/hc/42888380/?lpCallId=072842487993-120811727757&protV=20&lpjson=5&site=42888380&cmd=leVisitorEvent&type=impression&appKey=f907f2d9acd64b7f8c00b83bed3c2822&data=dynBut%3A11
+FileName4=t20.html
+URL4=http://server.lon.liveperson.net/hc/42888380/?&site=42888380&cmd=mTagInPage&lpCallId=682454904141-760480375584&protV=20&lpjson=1&page=http%3A//st2-uk.rs-online.com/web/ca/basketsummary/&id=7871627038&javaSupport=false&visitorStatus=INSITE_STATUS&defInvite=chat-uk-sales&activePlugin=none&cobrowse=true&cobrowse=true
+[ProtocolInfo]
+ProtocolId=QTWeb

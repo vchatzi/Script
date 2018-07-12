@@ -1,0 +1,10 @@
+GET /predictivesearch/catSearch?searchTerm=crimp%20connector&locale=uk&advancedPredictiveSearchEnabled=true HTTP/1.1
+Referer: http://st1-uk.rs-online.com/web/home.html
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Accept-Language: en-GB,en;q=0.5
+Accept: */*
+Connection: Keep-Alive
+Host: st1-uk.rs-online.com
+Cookie: ADRUM_BTa="R:41|g:04d17542-fbd3-4aaf-b8ed-825fc9bd4917|n:RSComponents-Dev_0c1d56e8-de19-4781-8e56-268618f53916"; ADRUM_BT1="R:41|i:1688130|e:1|d:0"; ADRUM_BTs="R:46|s:f"; cart=93581528; returningUser=Y; loginStatus=2
+

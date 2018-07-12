@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunner\Scripts\Agile PE\Integrated Load Testing\ST1\Web\ClearBasketAndLogout_AU
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\loadrunner\scripts\agile pe\integrated load testing\st1\web\clearbasketandlogout_au\\logfile.log
+d:\loadrunner\scripts\agile pe\integrated load testing\st1\web\clearbasketandlogout_au\\combined_ClearBasketAndLogout_AU.c
+d:\loadrunner\scripts\agile pe\integrated load testing\st1\web\clearbasketandlogout_au\\pre_cci.c

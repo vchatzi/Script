@@ -1,0 +1,3 @@
+"<envelope><header><context></context></header><body><call component=\"ServerSideStateChecker\""
+" method=\"sessionOk\" id=\"0\">\n"
+"<params><param><str>ready</str></param></params><refs></refs></call></body></envelope>"

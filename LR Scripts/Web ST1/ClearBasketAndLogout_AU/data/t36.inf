@@ -1,0 +1,13 @@
+[t36]
+FileName1=t36.htm
+URL1=https://st2-uk.rs-online.com/web/seam/resource/remoting/execute
+Total=2
+RequestHeaderFile=t36_RequestHeader.txt
+RequestBodyFile=t36_RequestBody.txt
+ResponseHeaderFile=t36_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_36.xml
+FileName2=t36_deliveryInfoIcon.gif
+URL2=https://st2-uk.rs-online.com/siteImages/general/deliveryInfoIcon.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

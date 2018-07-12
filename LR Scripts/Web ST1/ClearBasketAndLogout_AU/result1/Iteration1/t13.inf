@@ -1,0 +1,13 @@
+[t13]
+SnapshotXmlFile=snapshot_11.xml
+ContentType=text/html
+StepName=Url: Hex Socket Cap Stainless Steel Plain Socket {p_searchParam}ew, M4 x 12mm
+Total=1
+FileName1=t13.html
+RequestHeaderFile=t13_RequestHeader.txt
+ResponseHeaderFile=t13_ResponseHeader.txt
+RawStepEndTime=1515769898870
+RawStepName=Hex Socket Cap Stainless Steel Plain Socket {p_searchParam}ew, M4 x 12mm
+RequestBodyFile=t13_RequestBody.txt
+RawStepStartTime=1515769896555
+URL1=https://st1-au.rs-online.com/web/p/crimp-tab-terminals/4881279/

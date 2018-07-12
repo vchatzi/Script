@@ -1,0 +1,3 @@
+"<envelope><header><context><conversationId>71</conversationId></context></header><body><call c"
+"omponent=\"ServerSideStateChecker\" method=\"sessionOk\" id=\"3\">\n"
+"<params><param><str>focus</str></param></params><refs></refs></call></body></envelope>"

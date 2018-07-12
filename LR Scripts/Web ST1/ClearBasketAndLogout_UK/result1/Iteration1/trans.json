@@ -1,0 +1,27 @@
+[
+    {
+        "transactionName": "UK-01-HomePage",
+        "rawStartTime": 1527608598963,
+        "rawEndTime": 1527608600719
+    },
+    {
+        "transactionName": "UK-02-ClkLoginLink",
+        "rawStartTime": 1527608601732,
+        "rawEndTime": 1527608602090
+    },
+    {
+        "transactionName": "UK-03-Login",
+        "rawStartTime": 1527608603090,
+        "rawEndTime": 1527608605363
+    },
+    {
+        "transactionName": "UK-04-PredictiveSearch",
+        "rawStartTime": 1527608606379,
+        "rawEndTime": 1527608606895
+    },
+    {
+        "transactionName": "UK-04-HierarchySearch",
+        "rawStartTime": 1527608617257,
+        "rawEndTime": 1527608619089
+    }
+]

@@ -1,0 +1,13 @@
+[t69]
+SnapshotXmlFile=snapshot_57.xml
+ContentType=text/html
+StepName=Custom Request: basketsummary_2
+Total=1
+FileName1=t69.html
+RequestHeaderFile=t69_RequestHeader.txt
+ResponseHeaderFile=t69_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=basketsummary_2
+RequestBodyFile=t69_RequestBody.txt
+RawStepStartTime=1515769966226
+URL1=https://st1-au.rs-online.com/web/ca/basketsummary/

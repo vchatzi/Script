@@ -1,0 +1,4 @@
+"<envelope><header><context><conversationId>86</conversationId></context></header><body><call c"
+"omponent=\"ServerSideStateChecker\" method=\"longRunningConversationOk\" id=\"2\">\n"
+"<params><param><number>86</number></param><param><str>focus</str></param></params><refs></refs"
+"></call></body></envelope>"

@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 27 Jan 2016 16:56:21 GMT
+Server: Apache
+Pragma: No-cache
+Cache-Control: no-cache
+Expires: Thu, 01 Jan 1970 01:00:00 GMT
+Cache-Control: no-cache, no-store, must-revalidate, max-age=0, proxy-revalidate
+X-UA-Compatible: IE=EmulateIE8
+Content-Language: en
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Set-Cookie: JSESSIONID=0D7B15048A06BFE94B8132261EDBD24E.652; Path=/web;HttpOnly
+P3P: CP=OUR
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+

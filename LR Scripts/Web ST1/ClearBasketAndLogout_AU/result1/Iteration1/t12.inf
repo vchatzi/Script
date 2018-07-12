@@ -1,0 +1,13 @@
+[t12]
+SnapshotXmlFile=snapshot_10.xml
+ContentType=text/html
+StepName=Url: 2-Way Radio Rechargeable Batteries
+Total=1
+FileName1=t12.html
+RequestHeaderFile=t12_RequestHeader.txt
+ResponseHeaderFile=t12_ResponseHeader.txt
+RawStepEndTime=1515769895519
+RawStepName=2-Way Radio Rechargeable Batteries
+RequestBodyFile=t12_RequestBody.txt
+RawStepStartTime=1515769894458
+URL1=https://st1-au.rs-online.com/web/c/connectors/terminals-splices/crimp-tab-terminals/

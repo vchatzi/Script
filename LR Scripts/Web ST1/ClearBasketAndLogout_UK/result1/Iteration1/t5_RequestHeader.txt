@@ -1,0 +1,13 @@
+POST /web/j_security_check HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Cache-Control: no-cache
+Referer: https://st1-uk.rs-online.com/web/authHome.html
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Accept-Language: en-GB,en;q=0.5
+Accept: */*
+Connection: Keep-Alive
+Host: st1-uk.rs-online.com
+Cookie: JSESSIONID=OLT3ftmHDsrO6wAIA14tSQnk.602; ADRUM_BTa="R:46|g:11998170-a499-4aeb-9dfb-0ab4ce595522|n:RSComponents-Dev_0c1d56e8-de19-4781-8e56-268618f53916"; ADRUM_BT1="R:46|i:1688130|e:1|d:3"; ADRUM_BTs="R:46|s:f"
+Content-Length: 83
+

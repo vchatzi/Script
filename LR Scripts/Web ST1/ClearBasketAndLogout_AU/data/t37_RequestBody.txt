@@ -1,0 +1,4 @@
+"<envelope><header><context></context></header><body><call component=\"ServerSideStateChecker\""
+" method=\"longRunningConversationOk\" id=\"1\">\n"
+"<params><param><number>86</number></param><param><str>focus</str></param></params><refs></refs"
+"></call></body></envelope>"

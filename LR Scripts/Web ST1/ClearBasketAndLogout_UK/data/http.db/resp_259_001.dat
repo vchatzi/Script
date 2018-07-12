@@ -1,0 +1,22 @@
+<html>
+<!-- solves Microsoft IE8/Windows7 bug which sometimes stops to work on a small error page                                                 -->
+<head><title>407 Proxy Authentication Required</title></head>
+<body>
+<h2>Proxy Authentication Required</h2>
+<script>
+
+  var isDom = document.getElementById?true:false;
+  var isIE  = document.all && navigator.userAgent.indexOf("Opera") == -1;
+  var isNS4 = document.layers?true:false;
+
+  function setElementText(id, value) {
+	  if (isDom) document.getElementById(id).innerHTML = value;
+	  else if (isIE) document.all[id].innerHTML = value;
+	  else if (isNS4) document.layers[id].innerHTML = value;
+  }  
+</script>
+
+<h2>407 Proxy Authentication Required</h2>
+<P><DIV ID="status"><LAYER NAME="status"></LAYER></DIV></P>
+<!-- Update starts here -->
+<script type="text/javascript">setElementText("reason","");</script></body></html>

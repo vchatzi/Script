@@ -1,0 +1,10 @@
+GET /web/miniBasketRunningTotal.html HTTP/1.1
+Referer: http://st1-uk.rs-online.com/web/home.html
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Accept-Language: en-GB,en;q=0.5
+Accept: */*
+Connection: Keep-Alive
+Host: st1-uk.rs-online.com
+Cookie: JSESSIONID=OLT3ftmHDsrO6wAIA14tSQnk.602; ADRUM_BTa="R:0|g:222f24f3-218f-4e1a-bddc-4ca60047915e|n:RSComponents-Dev_0c1d56e8-de19-4781-8e56-268618f53916"; ADRUM_BT1="R:0|i:1688129"
+

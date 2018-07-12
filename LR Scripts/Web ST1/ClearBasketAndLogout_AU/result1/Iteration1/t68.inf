@@ -1,0 +1,13 @@
+[t68]
+SnapshotXmlFile=snapshot_56.xml
+ContentType=application/xml
+StepName=Custom Request: execute_2
+Total=1
+FileName1=t68.xml
+RequestHeaderFile=t68_RequestHeader.txt
+ResponseHeaderFile=t68_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=execute_2
+RequestBodyFile=t68_RequestBody.txt
+RawStepStartTime=1515769966089
+URL1=https://st1-au.rs-online.com/web/seam/resource/remoting/execute

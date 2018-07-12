@@ -1,0 +1,497 @@
+/* CSS Document */
+
+/* Main Campaign Styles */
+div#homepageWrapper {font-family:Arial; font-size:12px;}
+
+div#homepageWrapper h1 {margin:10px 0 0 10px; font-size:22px; font-weight:bold; text-align:left;}
+div#homepageWrapper h4 {font-size:12px; font-weight:bold; text-align:left; margin:10px 0 0 0; clear:both;}
+div#homepageWrapper h3 {font-size:22px; font-weight:bold; color:#d00000; text-align:left;}
+
+
+.row h2 {margin:0 0 10px 5px; padding:0; font-size:22px; color:#d00000;}
+.row div.last {margin:0;}
+.row { background:#ffffff; margin:0 5px 0 0; padding:0;width:776px;position:relative; 
+-moz-box-shadow: 0px 1px 2px 1px #ccc!important;  -webkit-box-shadow: 0px 1px 2px 1px #ccc!important;
+box-shadow: 0px 1px 2px 1px #ccc!important;  border:1px solid #dddddd;
+margin-bottom:10px!important;
+}
+  body:last-child .row {
+      /* Remove filter from IE9 */
+      filter: none;
+    }
+.row #slides {background:#ffffff;  width:780px; margin:0 0 0 5px; padding:0;}
+.row div.whiteBg {background:#ffffff;}
+
+a.buttonClear, span.buttonClear {padding:0 5px 5px 5px; display:block; overflow:hidden; font-size:18px; text-decoration:none; text-shadow: 0 1px 2px #710000; width:250px;}
+a div.cssButton {margin:10px 0 0 0; padding:0; display:block; border:1px solid #970000; cursor:pointer;}
+a div.cssButton span {margin:0; padding:5px 0; display:block; border:1px solid #f95f5f; border-bottom:1px solid #d23131; background:#a10101 url('/euro/img/site/campaigns/ncjHome/css/gradBgSprite.png') repeat-x; background-position:left -125px; color:#ffffff;}
+a:hover div.cssButton span {background:#b43434 url('/euro/img/site/campaigns/ncjHome/css/gradBgSprite.png') repeat-x; background-position:left -168px; text-shadow: 0 0px 2px #dd0000;}
+a:active div.cssButton span {background:#b43434 url('/euro/img/site/campaigns/ncjHome/css/gradBgSprite.png') repeat-x; background-position:left -168px; text-shadow: 0 0px 2px #dd0000;}
+
+.searchBoxWelcome {
+border: 1px solid #999;
+font-size: 14px;
+width: 240px;
+float: left;
+padding: 3px;
+margin: 3px 5px 0px 0px;
+}
+
+/* Hero Banner Slides */
+.slides_container {background:#ffffff; width:780px; height:240px; position:relative;}
+.slides_container a {margin:0; padding:0; width:778px; height:240px; display:block; color:#000000; text-decoration:none;}
+.slides_container a img {display:block; border:0;}
+
+.row .slides_container {background:#ffffff; height:240px; position:relative; }
+.row .slides_container .one {}
+.row .slides_container .two {height:240px;}
+.row .slides_container .three {height:240px;}
+.row .slides_container .four {height:240px;}
+.row .slides_container .five {height:240px;} 
+
+/* Hero Text */
+.row .slides_container .heroText {margin:0; padding:0; width:350px; position:absolute; right:0; top:0; text-align:left; display:none;}
+.row .slides_container .heroText.right {text-align:right;}
+.row .slides_container .heroText.heroLeft {margin:0; padding:0; width:350px; position:absolute; left:0; top:0; text-align:left;}
+.row .slides_container .heroText h1 {margin:10px; font-size:18px; font-weight:bold; color:#d00000;}
+.row .slides_container .heroText h2 {margin:10px; font-size:22px; font-weight:bold; color:#d00000;}
+.row .slides_container .heroText p {margin:10px; font-size:14px; font-weight:bold;}
+.row .slides_container .heroText.heroBlack p {color:#ffffff;}
+.row .slides_container .heroText.heroWhite p {color:#000000;}
+
+.row .slides_container .heroText.heroBlack ul {color:#ffffff;}
+.row .slides_container .heroText.heroBlack ul a:link, a:visited {color: #333333;}
+.row .slides_container .heroText.heroBlack ul a:hover {color: #CC0000;}
+.row .slides_container .heroText.heroWhite ul {color:#000000;}
+.row .slides_container .heroText.heroWhite ul a:link, a:visited {color: #333333;}
+.row .slides_container .heroText.heroWhite ul a:hover {color: #CC0000;}
+
+.row .slides_container .heroText.heroColour {margin:15px 0 15px 15px; height:210px; display:block; background:none repeat scroll 0 0 rgba(255, 255, 255, 0.8); _filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ccffffff, endColorstr=#ccffffff); filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#ccffffff', EndColorStr='#ccffffff');}
+.row .slides_container .heroText.heroColour p {color:#000000;}
+
+.row .slides_container .heroText span.buttonClear {float:right; padding:5px 10px;}
+.row .slides_container .heroText.heroLeft span.buttonClear {float:left; padding:5px 10px;}
+.row .slides_container .heroText span div.cssButton span {padding:5px 20px;}
+
+/* Hero Banner Pagination Updated 16/10/12 by SK */
+.pagination {margin:0; padding:0; height:35px; background:url('/euro/img/site/campaigns/ncjHome/css/gradBgSprite.png') left top repeat-x; position:relative; width:780px;}
+.pagination  a:link, .pagination  a:focus {outline:0;}
+.pagination .prev {margin:0; padding:0; background:#dadada url('/euro/img/site/campaigns/ncjHome/css/gradBgSprite.png') left -45px repeat-x; width:70px; height:35px; border:none; border-right:1px solid #dddddd; position:absolute; top:0; left:0;}
+.pagination .next {margin:0; background:#dadada url('/euro/img/site/campaigns/ncjHome/css/gradBgSprite.png') left -45px repeat-x; width:71px; height:35px; border:none; border-left:1px solid #dddddd; position:absolute; top:0; right:0;}
+.pagination a.prevButton {margin:5px 20px; width:26px; height:26px; display:block; background:url('/euro/img/site/campaigns/ncjHome/css/iconSprite.png') -150px -150px no-repeat;}
+.pagination a.nextButton {margin:5px 20px; width:26px; height:26px; display:block; background:url('/euro/img/site/campaigns/ncjHome/css/iconSprite.png') -80px -150px no-repeat;}
+.pagination a:hover.prevButton {background:url('/euro/img/site/campaigns/ncjHome/css/iconSprite.png') -185px -150px no-repeat;}
+.pagination a:hover.nextButton {background:url('/euro/img/site/campaigns/ncjHome/css/iconSprite.png') -115px -150px no-repeat;}
+
+.pagination ul {margin:0 5px 0 70px; padding:0; background:none;  border-top:1px solid #dddddd;}
+.pagination ul li {margin:1px 0 0; padding:0; list-style:none; display:block; float:left; width:128px; height:33px; text-align:center; border-right:1px solid #9a9a9a; border-left:1px solid #dddddd;}
+.pagination ul li a {margin:0; padding:10px 0 0; display:block; font-family:Arial; font-size:12px; font-weight:bold; color:#336699; text-decoration:none; text-shadow: 0 1px 0 #dddddd; line-height:12px; }
+.pagination ul li a:hover {color:#d00000;}
+.pagination ul li.current { margin:-1px; border:none; height:35px; background:#dadada url('/euro/img/site/campaigns/ncjHome/css/gradBgSprite.png') left -45px repeat-x;}
+.pagination ul li.current a {color:#d00000;}
+
+/* Product Boxes */
+.row .boxShadowLeft {margin:0 5px 0 0; padding:0; width:151px;  background:url('/euro/img/site/campaigns/ncjHome/css/boxShadow_left.png') no-repeat bottom left; float:left; }
+.row .boxShadowRight { padding:0 0 5px 0; background:url('/euro/img/site/campaigns/ncjHome/css/boxShadow_right.png') no-repeat bottom right; position:relative;}
+
+.row .prodBoxOutline {border:1px solid #dddddd; margin:0 5px;}
+.row .liquid {width:40%;}
+.row .prodBox {border:1px solid #fff; background:#f7f7f7;  display:block; height:250px;}
+.row .prodBox.sfy {height:270px;}
+.row .prodBox img {margin:5px 0;}
+.row .prodBox p {margin:5px; text-align:left; clear:both;}
+.row .prodBox p.latestOffers {height:30px;}
+.row .prodBox p a {font-weight:bold; color:#336699; text-decoration:none;}
+.row .prodBox p a:hover {color:#d00000;}
+.row .prodBox p a:active {color:#d00000;}
+.row .prodBox p.price {margin:0; padding:0; height:24px; font-size:22px; font-weight:bold; color:#d00000; text-align:center;}
+.row .prodBox.sfy p.price {margin:0; padding:0; height:auto; font-weight:bold; color:#d00000; text-align:center;}
+.row .prodBox p.desc {font-weight:bold; margin-bottom:10px;}
+.row .prodBox p.price span {font-weight:normal; font-size:11px;}
+.row .last {margin-right:0;}
+
+
+/*  Flags */
+.row div.offerFlag {margin:0; padding:0; width:65px; height:70px; position:absolute; top:10px; right:0; }
+.row img.imgLeft {float:left;}
+
+/* Campaign Accordion */
+#campaignAccordion {width:780px; height:200px; margin:0 5px 0; border:1px solid #dddddd; border-right:none;}
+#campaignAccordion div.slide {margin:0; padding:0; float:left; width:155px; height:200px; background:#fff; border-right:1px solid #fff;}
+#campaignAccordion div.slide a {display:block; text-decoration:none; color:#000000;}
+#campaignAccordion div.slide .campaignText {margin:0; padding:10px 5px; height:90px; display:block; background:none repeat scroll 0 0 rgba(255, 255, 255, 0.8); _filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ccffffff, endColorstr=#ccffffff);filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#ccffffff', EndColorStr='#ccffffff');}
+#campaignAccordion div.slide .campaignText h3 {margin:0; padding:0; font-size:18px; font-weight:bold; color:#d00000; letter-spacing:-0.3px;}
+#campaignAccordion div.slide .campaignText p {font-size:12px; margin:5px 0; display:none;}
+#campaignAccordion div.slide .campaignText p.link {font-size:14px; font-weight:bold; color:#336699; text-decoration:none; display:block;}
+#campaignAccordion div.slide a:hover p.link {color:#d00000;}
+#campaignAccordion div.slide.active {width:575px;}
+#campaignAccordion div.slide.inactive {width:50px;}
+#campaignAccordion div.slide.inactive .campaignText {display:none;}
+#campaignAccordion div.slide.active .campaignText {margin:20px; padding:10px; width:300px; height:130px;}
+#campaignAccordion div.slide.active .campaignText p {display:block;}
+#campaignAccordion div.slide.active .campaignText h3 {letter-spacing:0;}
+
+/* SEO Lists */
+.row .fixListCampaign {width:780px; margin:0 5px;}
+.row .fixListCampaign .column {float:left; background:none; width:146px; margin:0 10px 0 0; padding:0; border-top:1px solid #dddddd; }
+.row .fixListCampaign .column h4 {font-size:14px; color:#d00000; margin:10px 0 0;}
+.row .fixListCampaign .column ul {margin:10px 0 0 0; padding:0;}
+.row .fixListCampaign .column ul li {display:block;margin-top:10px; margin-bottom:10px; list-style:none;}
+.row .fixListCampaign .column ul li a { font-size:12px; color:#336699; text-decoration:none;}
+.row .fixListCampaign .column ul li a:hover {color:#d00000;}
+
+/* === Right Column Styles ===*/
+#rightColumn * {outline-style:none; outline-color:none; outline-width:0;}
+#rightColumn {width:190px; font-family:Arial; font-size:12px;}
+#rightColumn a, .rightColBox a {font-weight:bold; color:#336699; text-decoration:none;}
+#rightColumn a:hover {color:#d00000;}
+
+#rightColumn h1 {margin:10px 0 0 10px; font-size:12px; font-weight:bold; text-align:left;}
+#rightColumn h4, .rightColBox h4, div.homeBox h3{font-size:12px; font-weight:bold; color:#000000; text-align:left; margin:10px 0 0 10px; clear:both;}
+#rightColumn h3 {margin:0; padding:0; font-size:22px; font-weight:bold; color:#d00000; text-align:left;}
+
+body #container div.homeBox {background:#f7f7f7!important; margin-top:10px!important; border: 1px solid #DDD; font-size:12px; font-family:Arial;}
+body #container div.homeBox a, body #container div.homeBox a:link, body #container div.homeBox a:visited, body #container div.homeBox a:active {color:#336699; display:block; text-decoration:none; font-weight:bold; margin:0 0 10px 10px;}
+body #container div.homeBox a:hover {color:#d00000; display:block; text-decoration:underline;  }
+body #container div.homeBox table td a {font-weight:normal;}
+
+
+/* Country Selector Updated 02/12/11 by MR */
+#countrySelector {border:none!important; background:#f7f7f7!important; margin-top:10px!important; margin-left:10px; text-align:left;}
+#countrySelector a {color:#336699; display:block; text-decoration:none;}
+#countrySelector a:hover {color:#d00000;}
+#countrySelector img {margin-top:1px; margin-right:10px; display:block; float:left;}
+#countrySelector p {margin:0; padding:0;}
+#countrySelector p a {float:left; margin-left:10px;}
+#countrySelector p span {display:block; float:left;}
+#countrySelector span a {display:inline;}
+#countrySelector img {margin-right:10px;}
+
+
+.rightColBoxOutline {border:1px solid #dddddd; margin:10px 0;}
+.rightColBox {font-family:Arial; font-size:12px; border:1px solid #fff; background:#f7f7f7; display:block;}
+.rightColBox p {font-weight:normal; text-align:left; margin:10px;}
+
+
+.rightColBox a.loginButton {margin:10px 0 0 0; background:url('/euro/img/site/campaigns/ncjHome/css/iconSprite.png') no-repeat left 0; width:175px; height:65px; display:block; text-decoration:none; position:relative;}
+.rightColBox a:hover.loginButton {background:url('/euro/img/site/campaigns/ncjHome/css/iconSprite.png') no-repeat left -75px;}
+a.loginButton .buttonText {display:block; padding:5px 10px;}
+a.loginButton .buttonText h3 span{font-weight:bold !important;}
+a.loginButton .buttonText p {margin:10px 0; font-weight:bold; color:#999999;}
+.rightColBox a:hover.loginButton p {color:#d00000;}
+
+
+div.seperator {margin:0 10px; padding:0; line-height:0; font-size:0px;  height:1px; background:#dddddd; clear:both;}
+
+ul.contactButtons {margin:10px; padding:0; text-align:center;}
+ul.contactButtons li {margin:0 0 5px; padding:0; list-style:none; display:inline; float:left; text-align:center;}
+
+div.phoneLabel {background:url('/euro/img/site/campaigns/ncjHome/css/iconSprite.png') no-repeat -220px -185px; padding:3px 0 3px 30px; margin:5px 0 5px 10px; font-size:16px; font-weight:bold; color:#d00000; line-height:20px; text-align:left;}
+div.phoneLabel span {font-size:12px;}
+div.emailLabel {background:url('/euro/img/site/campaigns/ncjHome/css/iconSprite.png') no-repeat -220px -150px; padding:3px 0 3px 30px; margin:5px 0 15px 10px; line-height:20px; text-align:left; font-size:16px;}
+
+
+
+#rightcolumn input {font-size:11px; color:#dddddd; vertical-align:middle;}
+
+#emailForm {clear:both; margin:10px 0 10px 10px;}
+#emailForm input#emailInput {margin:0; padding:0; height:25px; border:1px solid #dddddd; float:left; text-indent:5px; outline:none; color:#dddddd;}
+#emailForm input#emailInput.focused {border:1px solid #d00000; -moz-box-shadow: 0 0 3px #fb5b5b; -webkit-box-shadow: 0 0 3px #fb5b5b; box-shadow: 0 0 3px #fb5b5b;}
+
+form input#emailButton, form input button {border:0; outline:none!important;}
+
+span.emailGo {margin:0 0 10px; padding:0; display:block; border:1px solid #970000; cursor:pointer; display:block; float:left;}
+span.emailGo span {border:1px solid #f95f5f; border-bottom:1px solid #d23131; display:block;}
+span.emailGo span input#emailButton, span.emailGo span button {margin:0; padding:3px 0; display:block; border:0; background:#a10101 url('/euro/img/site/campaigns/ncjHome/css/gradBgSprite.png') repeat-x; background-position:left -125px; font-family:Arial; font-size:12px; font-weight:bold; color:#ffffff; cursor:pointer;}
+span.emailGo span input#emailButton:hover, span.emailGo span button:hover {background:#b43434 url('/euro/img/site/campaigns/ncjHome/css/gradBgSprite.png') repeat-x; background-position:left -168px; text-shadow: 0 1px 2px #ffcccc;}
+
+
+
+div.quickOrder {clear:both;}
+#quickOrderForm {clear:both; margin:10px 0 10px 10px;}
+#quickOrderForm input {margin:0; padding:0; height:26px; border:1px solid #dddddd; float:left; text-indent:1px;}
+#quickOrderForm input.stock {width:110px; margin:5px 0 0; color:#dddddd;}
+#quickOrderForm input.qty {width:50px; margin:5px 10px 0 0; color:#dddddd; float:right;}
+#quickOrderForm input.focused {border:1px solid #d00000; -moz-box-shadow: 0 0 3px #fb5b5b; -webkit-box-shadow: 0 0 3px #fb5b5b; box-shadow: 0 0 3px #fb5b5b;}
+
+#quickOrderForm div {margin:5px 0 0 -4px; float:left; display:inline;}
+#quickOrderForm div a.moreLines { background:url('/euro/img/site/campaigns/ncjHome/css/iconSprite.png') no-repeat 0 -150px; width:30px; height:35px; display:block;}
+#quickOrderForm div a.moreLines:hover {background:url('/euro/img/site/campaigns/ncjHome/css/iconSprite.png') no-repeat -40px -150px;}
+#quickOrderForm span.emailGo {margin:10px 10px 10px 0; float:right;}
+
+
+
+div.socialLabel {
+float:left;
+margin:4px;
+ text-align:left;
+ font-size:16px;}
+
+
+.banners {margin:15px 0 0;}
+/*.bannerShadow {width:180px;
+-moz-box-shadow: 0px 1px 2px 1px #ccc!important;  -webkit-box-shadow: 0px 1px 2px 1px #ccc!important;
+box-shadow: 0px 1px 2px 1px #ccc!important;  border:1px solid #dddddd;
+margin-bottom:10px!important; float:left;}*/
+.bannerShadow {margin:0 0px 0 0; padding:0; width:180px; -moz-box-shadow: 0px 1px 2px 1px #ccc!important;  -webkit-box-shadow: 0px 1px 2px 1px #ccc!important;
+box-shadow: 0px 1px 2px 1px #ccc!important;  border:1px solid #dddddd;
+margin-bottom:10px!important; float:left;}
+
+#mainhero #linkhero a img {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}
+a.nodecoration {
+text-decoration:none; cursor:pointer;}
+
+#mainhero #linkhero {
+position:relative;
+text-align:right;
+margin:0px!important;
+margin-top:-90px!important;
+margin-right:6px!important;
+}
+#mainhero {
+	
+height:180px;
+padding:0px;
+margin:0px!important;
+}
+#mainhero #text {
+padding:8px;
+margin:auto;
+position:relative;
+top:85px;
+height:80px;
+}
+#mainhero #text p {
+font-size:12px;
+font-weight:bold;
+padding-left:6px;
+margin:0;}
+
+.herobox{
+filter: none;
+height:100px;
+margin:auto; 
+padding:1px;
+padding-left:6px; padding-right: 6px; }
+
+ul.heroboxes {
+    padding: 0; /* remove default padding and all margins! */
+    margin: 0;
+    list-style-type: none; /* remove the â€¢ */
+}
+ul.heroboxes li {
+    width: 250px;
+    height: 250px;
+    background-color:#ccc;
+margin-bottom:8px; 
+margin-right:8px;
+float:left;
+
+}
+
+.rowbox{
+width:790px;	}
+
+.herobox h4 {
+	color:#d00000;
+	font-size:16px!important;}
+
+.herobox p {
+	font-size: 14px;
+	color: #3382bb;
+font-weight:bold;
+}
+
+.wto_searchBoxBox_bottomLeft {
+	position: absolute;
+	bottom: 20px !important;
+	left: 15px !important;
+}
+.wto_searchBoxCTA_bottomLeft {
+	position: absolute;
+	bottom: 20px !important;
+	left: 255px !important;
+}
+.wto_searchBoxBox_topRight {
+	position: absolute;
+	right: 70px !important;
+	top: 20px !important;
+}
+.wto_searchBoxCTA_topRight {
+	position: absolute;
+	right: 25px !important;
+	top: 19px !important;
+}
+.wto_searchBoxBox_none {
+	display: none !important;
+}
+.wto_searchBoxCTA_none {
+	display: none !important;
+}
+#wto_newBannersCTACover:hover {
+	cursor: pointer;
+}
+#welcome, #welcomenew {
+	background:#fff;
+}
+#welcome h2 {
+	font-size:32px;
+	margin-left:68px;
+	margin-top:10px;
+	padding:0px;
+	margin-bottom:-20px;
+}
+#welcome_vp ul {
+	list-style-type:none;
+	padding-bottom:10px;
+	display:inline;
+	margin:auto;
+}
+#welcome_vp ul li {
+	width:378px;
+	margin-bottom:10px;
+	float:left;
+	margin-left:10px;
+}
+#welcome_vp ul img {
+	margin:auto;
+	margin-right:10px;
+	clear:left!important;
+}
+#welcome_vp ul li h4 {
+	display:inline;
+}
+#welcome_vp ul li p {
+	display:inline;
+}
+#welcomenew #welcome_vp_new {
+	display: inline;
+	float: right;
+	width: 600px;
+	
+}
+#welcomenew #imagebox {
+margin-left:10px;
+padding-bottom:10px!important;
+padding-left:20px;
+width:120px;
+float:left; }
+#welcomenew h3 {
+	font-size:16px!important;
+	margin-left:10px;
+	margin-top:20px;
+	padding:0px;
+	margin-bottom:0px;
+}
+#welcomenew li {
+line-height:24px; 
+font-size:12px;}
+.deliveries {
+margin:0px 0px 10px 5px; 
+padding:8px 0px 0px 0px; 
+width:780px; 
+display:block; 
+text-align:center;
+font-weight:bold;
+color:#CC0000;
+border:1px solid #ddd;
+}
+
+div.heroblack {   
+background:url(/euro/img/site/campaigns/ncjHome/elements/bg_trasp_black.png);
+}
+div.herowhite {   
+background:url(/euro/img/site/campaigns/ncjHome/elements/bg_trasp_white.png);
+}
+div.herorsbrand {   
+background:url(/euro/img/site/campaigns/ncjHome/elements/bg_trasp_white.png);
+}
+div.herorsessentials {   
+background:url(/euro/img/site/campaigns/ncjHome/elements/bg_trasp_white.png);
+}	 
+
+p.heroblack {	color:#ffffff;}
+p.herowhite {	color:#000000;}
+p.herorsbrand {	color:#000000;}
+p.herorsessentials {color:#000000;}
+
+div.heroboxblack {   
+filter: none;
+height:100px;
+margin:auto; 
+padding:1px;
+padding-left:8px; padding-right: 6px;
+background:url(/euro/img/site/campaigns/ncjHome/elements/bg_trasp_black.png);
+}
+div.heroboxwhite {  
+filter: none;
+height:100px;
+margin:auto; 
+padding:1px;
+padding-left:8px; padding-right: 6px; 
+background:url(/euro/img/site/campaigns/ncjHome/elements/bg_trasp_white2.png);
+}
+div.heroboxrsbrand {   
+filter: none;
+height:100px;
+margin:auto; 
+padding:1px;
+padding-left:6px; padding-right: 6px;
+background:url(/euro/img/site/campaigns/ncjHome/elements/bg_trasp_white.png);
+}
+div.heroboxrsessentials {  
+filter: none;
+height:100px;
+margin:auto; 
+padding:1px;
+padding-left:6px; padding-right: 6px; 
+background:url(/euro/img/site/campaigns/ncjHome/elements/bg_trasp_white.png);
+}	 
+#welcomenew #welcome_vp ul li {
+	width:230px!important;
+	margin-bottom:10px;
+	float:left;
+	margin-left:10px;
+}
+#welcomenew ul {height: 0px;}
+#welcomenew img {padding-bottom:12px;}
+
+.welcomeSub {
+color:#000!important;
+text-align:left;display:block!important;margin-left:10px!important;}
+
+
+.heroboxwhite h4 {
+	color:#d00000;
+	font-size:14px!important;}
+
+.heroboxwhite p {
+	font-size: 12px;
+	color: #3382bb;
+font-weight:bold;
+}
+.heroboxblack h4 {
+	color:#d00000;
+	font-size:16px!important;}
+
+.heroboxblack p {
+	font-size: 14px;
+	color: #3382bb;
+font-weight:bold;
+}
+#welcomenew h2 {
+	font-size:26px;
+	margin-left:10px;
+	margin-top:10px;
+	padding:0px;
+	margin-bottom:-20px;
+}
+
+#welcome_vp ul {  
+ padding: 0px; 
+}

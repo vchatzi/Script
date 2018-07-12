@@ -1,0 +1,13 @@
+[t25]
+FileName1=t25.htm
+URL1=http://st2-uk.rs-online.com/web/ca/basketsummary/
+Total=2
+RequestHeaderFile=t25_RequestHeader.txt
+RequestBodyFile=t25_RequestBody.txt
+ResponseHeaderFile=t25_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_25.xml
+FileName2=t25.html
+URL2=http://server.lon.liveperson.net/hc/42888380/?&site=42888380&cmd=mTagInPage&lpCallId=600393677178-255404003786&protV=20&lpjson=1&page=http%3A//st2-uk.rs-online.com/web/ca/basketsummary/&id=7871627038&javaSupport=false&visitorStatus=INSITE_STATUS&defInvite=chat-uk-sales&activePlugin=none&cobrowse=true&cobrowse=true
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,13 @@
+[t2]
+SnapshotXmlFile=snapshot_2.xml
+ContentType=text/html
+StepName=Url: miniBasketRunningTotal.html
+Total=1
+FileName1=t2.html
+RequestHeaderFile=t2_RequestHeader.txt
+ResponseHeaderFile=t2_ResponseHeader.txt
+RawStepEndTime=1527608600672
+RawStepName=miniBasketRunningTotal.html
+RequestBodyFile=t2_RequestBody.txt
+RawStepStartTime=1527608600607
+URL1=https://st1-uk.rs-online.com/web/miniBasketRunningTotal.html

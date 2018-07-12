@@ -1,0 +1,13 @@
+[t26]
+SnapshotXmlFile=snapshot_22.xml
+ContentType=text/html
+StepName=Submit Data: 0281035_2
+Total=1
+FileName1=t26.html
+RequestHeaderFile=t26_RequestHeader.txt
+ResponseHeaderFile=t26_ResponseHeader.txt
+RawStepEndTime=1515769913194
+RawStepName=0281035_2
+RequestBodyFile=t26_RequestBody.txt
+RawStepStartTime=1515769912734
+URL1=https://st1-au.rs-online.com/web/p/c-rechargeable-batteries/8412401/

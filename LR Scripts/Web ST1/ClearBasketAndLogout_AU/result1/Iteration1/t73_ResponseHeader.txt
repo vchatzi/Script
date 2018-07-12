@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: Apache/2.4.23 (Red Hat)
+Cache-Control: no-cache, no-store, must-revalidate, max-age=0, proxy-revalidate, public
+X-Cnection: close
+Content-Type: text/html;charset=UTF-8
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 29436
+Date: Fri, 12 Jan 2018 15:12:50 GMT
+Connection: keep-alive
+Set-Cookie: JSESSIONID=-QIWYaBI9yWNzdWEZepfn+Z5.605; Path=/web;HttpOnly
+Set-Cookie: cart=15348453; Expires=Sun, 24-Jan-2066 06:25:40 GMT; Path=/;HttpOnly
+

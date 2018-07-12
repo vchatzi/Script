@@ -1,0 +1,13 @@
+POST /web/p/floor-boxes-accessories/8361609/ HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Cache-Control: no-cache
+Referer: https://st1-au.rs-online.com/web/p/socket-drainews/0292271/
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Accept-Language: en-GB,en;q=0.5
+Accept: */*
+Connection: Keep-Alive
+Host: st1-au.rs-online.com
+Cookie: JSESSIONID=l3l9Qqr9o4NxfQHbGplK2yn7.605; firsttimevisitor=N; cart=15348452; returningUser=Y; viewType=List
+Content-Length: 251
+

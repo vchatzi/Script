@@ -1,0 +1,1 @@
+Bootstrapper.bindImmediate(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;Bootstrapper.on("mousedown","#quickAddProductBtn",function(){Bootstrapper.ensEvent.trigger("Basket Add - Basket Page")},true)},-1,-1);

@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Server: Apache
+X-UA-Compatible: IE=EmulateIE8
+X-Cnection: close
+Content-Type: text/html;charset=UTF-8
+Content-Encoding: gzip
+Content-Length: 222
+Cache-Control: public, private, must-revalidate, proxy-revalidate, max-age=3600
+Expires: Tue, 29 May 2018 16:43:26 GMT
+Date: Tue, 29 May 2018 15:43:26 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: ADRUM_BTa="R:41|g:04d17542-fbd3-4aaf-b8ed-825fc9bd4917|n:RSComponents-Dev_0c1d56e8-de19-4781-8e56-268618f53916"; Version=1; Max-Age=0; Path=/;HttpOnly
+Set-Cookie: ADRUM_BT1="R:41|i:1688130|e:1|d:0"; Version=1; Max-Age=0; Path=/;HttpOnly
+Set-Cookie: ADRUM_BTs="R:46|s:f"; Version=1; Max-Age=0; Path=/;HttpOnly
+Set-Cookie: ADRUM_BTa="R:41|g:ac0e20e8-a54d-4012-9052-e0f684fee88e"; Version=1; Max-Age=30; Path=/;HttpOnly
+Set-Cookie: ADRUM_BTa="R:41|g:ac0e20e8-a54d-4012-9052-e0f684fee88e|n:RSComponents-Dev_0c1d56e8-de19-4781-8e56-268618f53916"; Version=1; Max-Age=30; Path=/;HttpOnly
+Set-Cookie: ADRUM_BT1="R:41|i:1688251"; Version=1; Max-Age=30; Path=/;HttpOnly
+Set-Cookie: ADRUM_BTs="R:41|s:f"; Version=1; Max-Age=30; Path=/;HttpOnly
+Set-Cookie: ADRUM_BT1="R:41|i:1688251|d:167"; Version=1; Max-Age=30; Path=/;HttpOnly
+

@@ -1,0 +1,110 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head></head><body><div id="paymentForm:addPaymentWidgetPanel" style="display: none;"><input autocomplete="off" id="paymentForm:addPaymentWidgetPanelOpenedState" name="paymentForm:addPaymentWidgetPanelOpenedState" type="hidden" /><div class="rich-modalpanel redModalPanel scModalPanel" id="paymentForm:addPaymentWidgetPanelContainer" style="position: absolute; display: none; z-index: 100; background-color: inherit;"><div class="dr-mpnl-mask-div dr-mpnl-mask-div-opaque rich-mpnl-mask-div" id="paymentForm:addPaymentWidgetPanelDiv" style="z-index: 1;"><button class="dr-mpnl-pnl-button" id="paymentForm:addPaymentWidgetPanelFirstHref"></button></div><div class="dr-mpnl-panel rich-mpnl_panel"><div class="rich-mp-container" id="paymentForm:addPaymentWidgetPanelCDiv" style="position: absolute; left: 0px; top: 0px; z-index: 9;"><div class="dr-mpnl-shadow rich-mpnl-shadow" id="paymentForm:addPaymentWidgetPanelShadowDiv"></div><div class=" dr-mpnl-pnl rich-mp-content" id="paymentForm:addPaymentWidgetPanelContentDiv"><div class="dr-mpnl-pnl-text rich-mpnl-text rich-mpnl-controls ">
+					<img src="https://st2-uk.rs-online.com/siteImages/general/close.gif" class="loginCloseIcn" id="richAddPaymentWidgetHideLink" /><script type="text/javascript">//&lt;![CDATA[
+ Richfaces.onAvailable('richAddPaymentWidgetHideLink', function()
+{
+    Richfaces.componentControl.attachEvent('#richAddPaymentWidgetHideLink', 'onclick', '#paymentForm\\:addPaymentWidgetPanel', 'hide', function() { return {}; }, false);
+ });//]]&gt;</script></div><table border="0" cellpadding="0" cellspacing="0" class="rich-mp-content-table" id="paymentForm:addPaymentWidgetPanelContentTable" style="width: 950px;height: 1px;"><tbody><tr style="height: 1%;"><td class="dr-mpnl-header rich-mpnl-header-cell"><div class="dr-mpnl-pnl-text dr-mpnl-pnl-h rich-mpnl-text rich-mpnl-header " id="paymentForm:addPaymentWidgetPanelHeader" style="white-space: nowrap;"><span class="layerTitleText">Add payment type</span></div></td></tr><tr style="height: 99%"><td class="dr-mpnl-pnl-b rich-mpnl-body" valign="top"><script id="paymentForm:j_id474" type="text/javascript">//&lt;![CDATA[
+		closeAddPayment=function(){A4J.AJAX.Submit('_viewRoot','paymentForm',null,{'similarityGroupingId':'paymentForm:j_id474','parameters':{'paymentForm:j_id474':'paymentForm:j_id474'} ,'actionUrl':'/web/co/payment/?cid=86'} )};
+		//]]&gt;</script>		
+		 <div class="paymentWidgetDiv floatLeft"><div id="paymentForm:AddUserPaymentWidgetAction_paymentFormDiv" class="AddUserPaymentWidgetAction clientValidation manageFormDiv floatLeft"><script id="paymentForm:j_id495" type="text/javascript">//&lt;![CDATA[
+		updatePaymentType=function(paymentType){A4J.AJAX.Submit('paymentForm:j_id481','paymentForm',null,{'similarityGroupingId':'paymentForm:j_id495','parameters':{'paymentType':paymentType,'paymentForm:j_id495':'paymentForm:j_id495'} ,'actionUrl':'/web/co/payment/?cid=86'} )};
+		//]]&gt;</script>
+	<div class="mandatoryDiv"><span class="manindicatorText">Denotes mandatory field</span><span class="manindicator manStar">*</span></div>	
+	<div class="textTitle">Select card type</div><div id="paymentForm:AddUserPaymentWidgetAction_paymentFormDiv_Fields" class="floatLeft">
+	<script>clientSideValidation()</script>
+	<table class="addPaymentTbl" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><div class="leftDiv">
+	<table border="0" class="cardTypeTbl top5" cellpadding="5" cellspacing="0">
+		<tbody><tr>
+			     <td>
+						<input type="radio" name="paymentType" checked="checked" value="101" onclick="updatePaymentType('101'),toggleOrderReviewButton(101);" />
+                 </td>
+			     <td>
+						<input type="radio" name="paymentType" value="102" onclick="updatePaymentType('102'),toggleOrderReviewButton(102);" />
+                 </td>
+			     <td>
+						<input type="radio" name="paymentType" value="100" onclick="updatePaymentType('100'),toggleOrderReviewButton(100);" />
+                 </td>
+			     <td>
+						<input type="radio" name="paymentType" value="1" onclick="updatePaymentType('1'),toggleOrderReviewButton(1);" />
+                 </td>
+		</tr>
+		<tr>	
+			<td><div class="paymentTypeImg"><a title="Visa"><img alt="Visa" src="https://st2-uk.rs-online.com/siteImages/payment/visa.gif" /></a></div></td>	
+			<td><div class="paymentTypeImg"><a title="Mastercard"><img alt="Mastercard" src="https://st2-uk.rs-online.com/siteImages/payment/mastercard.gif" /></a></div></td>	
+			<td><div class="paymentTypeImg"><a title="American Express"><img alt="American Express" src="https://st2-uk.rs-online.com/siteImages/payment/amex.gif" /></a></div></td>	
+			<td><div class="paymentTypeImg"><a title="RS Account"><img alt="RS Account" src="https://st2-uk.rs-online.com/siteImages/payment/rs.gif" /></a></div></td>
+		</tr>
+        </tbody></table>
+				<div class="formField"><div id="paymentForm:AddUserPaymentWidgetAction_cardNumber_decorate">
+     <span class="">
+		<div class="clientSideError" style="display:none;"></div><span class="formLabel fieldTitle">Card number</span><span class="manStar manindicator">*</span><br /><input id="paymentForm:AddUserPaymentWidgetAction_cardNumber_decorate:AddUserPaymentWidgetAction_cardNumber" type="hidden" name="paymentForm:AddUserPaymentWidgetAction_cardNumber_decorate:AddUserPaymentWidgetAction_cardNumber" value="" /><input type="text" name="paymentForm:AddUserPaymentWidgetAction_cardNumber_decorate:j_id526" value="" class="cardNumber inputText textInput cardNo" maxlength="4" onkeyup="focusNextCardSection(this, 4);" /><input type="text" name="paymentForm:AddUserPaymentWidgetAction_cardNumber_decorate:j_id527" value="" class="cardNumber inputText textInput cardNo" maxlength="4" onkeyup="focusNextCardSection(this, 4);" /><input type="text" name="paymentForm:AddUserPaymentWidgetAction_cardNumber_decorate:j_id528" value="" class="cardNumber inputText textInput cardNo" maxlength="4" onkeyup="focusNextCardSection(this, 4);" /><input type="text" name="paymentForm:AddUserPaymentWidgetAction_cardNumber_decorate:j_id529" value="" class="cardNumber inputText textInput cardNo" maxlength="4" onkeyup="focusNextCardSection(this, 4);" />
+    </span></div>
+				</div>
+			<div class="formField"><div id="paymentForm:AddUserPaymentWidgetAction_cardName_decorate">
+     <span class="">
+		<div class="clientSideError" style="display:none;"></div><span class="formLabel fieldTitle">Card name</span><span class="manStar manindicator">*</span><br />
+				<div class="helpInputDiv"><input id="paymentForm:AddUserPaymentWidgetAction_cardName_decorate:AddUserPaymentWidgetAction_cardName" type="text" name="paymentForm:AddUserPaymentWidgetAction_cardName_decorate:AddUserPaymentWidgetAction_cardName" value="" class="cardName inputText textInput" maxlength="128" />
+<div class="helpContainer "><img src="https://st2-uk.rs-online.com/siteImages/general/formhelp.gif" class="helpIcon" onmouseover="fadeInHelp(this);createCoremetricsElement(false,      &quot;PaymentOptionsFinalPage|Card Name|Help&quot;,&quot;Checkout Help&quot;,      &quot;14695171&quot;,&quot;14|0&quot;,      &quot;USER&quot;,      &quot;20160127&quot;,      &quot;17:01:12&quot;,      &quot;PaymentOptionsFinalPage&quot;);;" onmouseout="hideHelp(this);;" />
+	<div class="helpPopupMainDiv helpBalloon" onmouseover="showHelp(this);" onmouseout="hideHelp(this);">	
+		 <div class="helpPopupDiv">
+		 <img src="https://st2-uk.rs-online.com/siteImages/general/formHelpPointer.gif" class="helpPopupPointer helpBalloon pointerLeft" />
+		 <img src="https://st2-uk.rs-online.com/siteImages/general/formHelpPointerRight.gif" class="helpPopupPointer helpBalloon pointerRight" />
+		 <div class="formHelpTitle"><span class="formHelpTitle">What is a card name?</span></div>
+			  <table><tbody><tr><td valign="top"><span class="formHelpText">Use this field to create your own name for your card e.g. "Visa for work purchases".</span><span class="formHelpText">Creating a card name could help you to identify one card from another more easily.</span>
+			  </td></tr></tbody></table>
+			  <div class="clearBoth"></div>
+	</div>
+	</div>	
+</div>
+				</div>
+    </span></div>
+			</div>
+			<div class="formField"><div id="paymentForm:AddUserPaymentWidgetAction_cardHolder_decorate">
+     <span class="">
+		<div class="clientSideError" style="display:none;"></div><span class="formLabel fieldTitle">Card holder name</span><span class="manStar manindicator">*</span><br /><input id="paymentForm:AddUserPaymentWidgetAction_cardHolder_decorate:AddUserPaymentWidgetAction_cardHolder" type="text" name="paymentForm:AddUserPaymentWidgetAction_cardHolder_decorate:AddUserPaymentWidgetAction_cardHolder" value="" class="cardHolder inputText textInput" maxlength="40" />
+    </span></div>
+			</div>	   
+	   <div class="formField"><div class="floatLeft" id="paymentForm:AddUserPaymentWidgetAction_expiryDate_decorate">
+     <span class="">
+		<div class="clientSideError" style="display:none;"></div><span class="formLabel fieldTitle">Expiry date (mm/yy)</span><span class="manStar manindicator">*</span><br /><input id="paymentForm:AddUserPaymentWidgetAction_expiryDate_decorate:AddUserPaymentWidgetAction_expiryDate" type="text" name="paymentForm:AddUserPaymentWidgetAction_expiryDate_decorate:AddUserPaymentWidgetAction_expiryDate" value="" class="expiryDate inputText dateInput" maxlength="5" />
+    </span></div>
+	   </div></div>
+	   </td><td class="rightTd">
+	   
+	   <div class="rightDiv">
+		   <table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
+			 </tr></tbody></table></div>
+	   </td></tr>
+	   <tr> <td>
+	   </td></tr>
+	   </tbody></table>
+	    <div class="clearBoth"></div></div></div>
+				<div class="clearBoth"></div>
+				<div class="btnDiv top5">
+				<div class="floatRight"><span class="toggleThisBtnState"><a class="cssButton secondary blue enabledBtn" href="#" id="paymentForm:j_id764" name="paymentForm:j_id764" onclick="A4J.AJAX.Submit('paymentForm:j_id481','paymentForm',event,{'similarityGroupingId':'paymentForm:j_id764','parameters':{'paymentForm:j_id764':'paymentForm:j_id764'} ,'actionUrl':'/web/co/payment/?cid=86'} );return false;"><span>Save</span></a>
+					<a class="hide cssButton secondary inactive disabledBtn" href="javascript:;">
+					<span>Save</span></a>
+				 </span></div><a class="cssButton secondary grey floatLeft" href="#" id="paymentForm:j_id767" name="paymentForm:j_id767" onclick="A4J.AJAX.Submit('paymentForm:j_id481','paymentForm',event,{'similarityGroupingId':'paymentForm:j_id767','parameters':{'paymentForm:j_id767':'paymentForm:j_id767'} ,'actionUrl':'/web/co/payment/?cid=86'} );return false;"><span>Cancel</span></a>
+		  </div><script>toggleThisBtnState();</script>
+			</div></td></tr></tbody></table></div></div></div><div class="dr-mpnl-mask-div dr-mpnl-mask-div-transparent rich-mpnl-mask-div" id="paymentForm:addPaymentWidgetPanelCursorDiv" style="z-index: -200;"><button class="dr-mpnl-pnl-button" id="paymentForm:addPaymentWidgetPanelLastHref"></button></div><script type="text/javascript">new ModalPanel('paymentForm:addPaymentWidgetPanel',
+				{
+					width: 950,
+					height: -1,
+
+					minWidth: -1,
+					minHeight: -1,
+
+					resizeable: false,
+					moveable: true,
+
+					left: "auto",
+					top: "auto",
+
+					zindex: 100,onresize: '',onmove: '',onshow: '',onhide: function(event){closeAddPayment()},onbeforeshow: '',onbeforehide: '',
+					domElementAttachment: "form",				
+					keepVisualState: false,
+					showWhenRendered: true,
+					selectBehavior: "disable",
+
+					autosized: true,
+					overlapEmbedObjects: false});</script></div><script type="text/javascript">Richfaces.showModalPanel('paymentForm:addPaymentWidgetPanel', {});</script></div><meta name="Ajax-Update-Ids" content="paymentForm:addPaymentWidgetPanel" /><span id="ajax-view-state"><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id6" autocomplete="off" /></span><meta id="Ajax-Response" name="Ajax-Response" content="true" /></body></html>

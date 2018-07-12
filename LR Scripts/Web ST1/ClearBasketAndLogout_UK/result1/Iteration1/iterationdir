@@ -1,0 +1,12 @@
+[vuser_init]
+SnapshotIndex=I1_vuser_init
+[HomePage]
+SnapshotIndex=I1_HomePage
+[HierarchicalSearch]
+SnapshotIndex=I1_HierarchicalSearch
+[PredectiveSearch]
+SnapshotIndex=I1_PredectiveSearch
+[Login]
+SnapshotIndex=I1_Login
+[vuser_end]
+SnapshotIndex=I1_vuser_end

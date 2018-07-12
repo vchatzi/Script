@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: Apache
+Cache-Control: no-cache, no-store, must-revalidate, max-age=0, proxy-revalidate, public
+X-Cnection: close
+Content-Type: text/html;charset=UTF-8
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 30092
+Date: Tue, 29 May 2018 15:43:19 GMT
+Connection: keep-alive
+Set-Cookie: ADRUM_BTa="R:0|g:222f24f3-218f-4e1a-bddc-4ca60047915e"; Version=1; Max-Age=30; Path=/;HttpOnly
+Set-Cookie: ADRUM_BTa="R:0|g:222f24f3-218f-4e1a-bddc-4ca60047915e|n:RSComponents-Dev_0c1d56e8-de19-4781-8e56-268618f53916"; Version=1; Max-Age=30; Path=/;HttpOnly
+Set-Cookie: JSESSIONID=OLT3ftmHDsrO6wAIA14tSQnk.602; Path=/web;HttpOnly
+Set-Cookie: ADRUM_BT1="R:0|i:1688129"; Version=1; Max-Age=30; Path=/;HttpOnly
+

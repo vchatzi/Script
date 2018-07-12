@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Wed, 27 Jan 2016 17:06:14 GMT
+Server: Apache
+Cache-Control: no-cache, no-store, must-revalidate, max-age=0, proxy-revalidate
+X-UA-Compatible: IE=EmulateIE8
+Content-Language: en
+X-Powered-By: JSF/1.2
+Cache-Control: no-cache, no-store, must-revalidate, max-age=0, proxy-revalidate
+X-UA-Compatible: IE=EmulateIE8
+X-Powered-By: JSF/1.2
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Set-Cookie: cart=88021051; Expires=Wed, 22-Feb-2062 10:12:28 GMT; Path=/;HttpOnly
+Set-Cookie: cart=88021051; Expires=Wed, 22-Feb-2062 10:12:28 GMT; Path=/;HttpOnly
+P3P: CP=OUR
+Content-Length: 11601
+Connection: close
+Content-Type: text/html;charset=utf-8
+

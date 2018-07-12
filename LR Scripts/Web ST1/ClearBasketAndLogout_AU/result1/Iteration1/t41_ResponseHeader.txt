@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: Apache/2.4.23 (Red Hat)
+X-UA-Compatible: IE=EmulateIE8
+Content-Length: 152
+X-Cnection: close
+Content-Type: text/html;charset=UTF-8
+Cache-Control: public, private, must-revalidate, proxy-revalidate, max-age=3600
+Expires: Fri, 12 Jan 2018 16:12:12 GMT
+Date: Fri, 12 Jan 2018 15:12:12 GMT
+Connection: keep-alive
+

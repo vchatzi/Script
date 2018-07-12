@@ -1,0 +1,13 @@
+[t3]
+SnapshotXmlFile=snapshot_3.xml
+ContentType=text/html
+StepName=Url: authHome.html
+Total=1
+FileName1=t3.html
+RequestHeaderFile=t3_RequestHeader.txt
+ResponseHeaderFile=t3_ResponseHeader.txt
+RawStepEndTime=1527608601939
+RawStepName=authHome.html
+RequestBodyFile=t3_RequestBody.txt
+RawStepStartTime=1527608601733
+URL1=https://st1-uk.rs-online.com/web/authHome.html

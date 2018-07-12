@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Server: Apache
+Pragma: No-cache
+Cache-Control: no-cache, public
+Expires: Thu, 01 Jan 1970 01:00:00 GMT
+X-Cnection: close
+Content-Type: text/html;charset=UTF-8
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 22349
+Date: Tue, 29 May 2018 15:43:21 GMT
+Connection: keep-alive
+Set-Cookie: ADRUM_BTa="R:41|g:d040fefb-e94f-4e78-bb82-5599d746442d|n:RSComponents-Dev_0c1d56e8-de19-4781-8e56-268618f53916"; Version=1; Max-Age=0; Path=/;HttpOnly
+Set-Cookie: ADRUM_BT1="R:41|i:1688130|e:1|d:1"; Version=1; Max-Age=0; Path=/;HttpOnly
+Set-Cookie: ADRUM_BTa="R:41|g:bc08189f-d327-4b2b-921a-a890f20ea213"; Version=1; Max-Age=30; Path=/;HttpOnly
+Set-Cookie: ADRUM_BTa="R:41|g:bc08189f-d327-4b2b-921a-a890f20ea213|n:RSComponents-Dev_0c1d56e8-de19-4781-8e56-268618f53916"; Version=1; Max-Age=30; Path=/;HttpOnly
+Set-Cookie: ADRUM_BT1="R:41|i:1688186"; Version=1; Max-Age=30; Path=/;HttpOnly
+

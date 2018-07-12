@@ -1,0 +1,13 @@
+[t72]
+SnapshotXmlFile=snapshot_60.xml
+ContentType=text/html
+StepName=Url: logout.html
+Total=1
+FileName1=t72.html
+RequestHeaderFile=t72_RequestHeader.txt
+ResponseHeaderFile=t72_ResponseHeader.txt
+RawStepEndTime=1515769970511
+RawStepName=logout.html
+RequestBodyFile=t72_RequestBody.txt
+RawStepStartTime=1515769970431
+URL1=https://st1-au.rs-online.com/web/logout.html
